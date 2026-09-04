@@ -27,7 +27,6 @@
 ```powershell
 py -3.12 scripts/curriculum.py validate data/program.json
 py -3.12 scripts/curriculum.py query data/program.json --course "机械设计" --format markdown
-py -3.12 scripts/curriculum.py syllabus data/program.json --course "25JD31107"
 ```
 
 ## 数据内容
